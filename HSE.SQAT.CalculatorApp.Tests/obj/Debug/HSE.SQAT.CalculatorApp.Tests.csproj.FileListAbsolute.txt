@@ -1,0 +1,35 @@
+c:\users\localuser\documents\visual studio 2015\Projects\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\HSE.SQAT.CalculatorApp.Tests.dll
+c:\users\localuser\documents\visual studio 2015\Projects\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\HSE.SQAT.CalculatorApp.Tests.pdb
+c:\users\localuser\documents\visual studio 2015\Projects\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\HSE.SQAT.CalculatorApp.exe
+c:\users\localuser\documents\visual studio 2015\Projects\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\localuser\documents\visual studio 2015\Projects\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\HSE.SQAT.CalculatorApp.pdb
+c:\users\localuser\documents\visual studio 2015\Projects\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\localuser\documents\visual studio 2015\Projects\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\obj\Debug\HSE.SQAT.CalculatorApp.Tests.csprojResolveAssemblyReference.cache
+c:\users\localuser\documents\visual studio 2015\Projects\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\obj\Debug\HSE.SQAT.CalculatorApp.Tests.dll
+c:\users\localuser\documents\visual studio 2015\Projects\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\obj\Debug\HSE.SQAT.CalculatorApp.Tests.pdb
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\HSE.SQAT.CalculatorApp.Tests.dll
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\HSE.SQAT.CalculatorApp.Tests.pdb
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\HSE.SQAT.CalculatorApp.Tests.dll.CodeAnalysisLog.xml
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\HSE.SQAT.CalculatorApp.Tests.dll.lastcodeanalysissucceeded
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\HSE.SQAT.CalculatorApp.exe
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\HSE.SQAT.CalculatorApp.pdb
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\HSE.SQAT.CalculatorApp.exe.config
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\obj\Debug\HSE.SQAT.CalculatorApp.Tests.csprojAssemblyReference.cache
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\obj\Debug\HSE.SQAT.CalculatorApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\obj\Debug\HSE.SQAT.CalculatorApp.Tests.csproj.CopyComplete
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\obj\Debug\HSE.SQAT.CalculatorApp.Tests.dll
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\obj\Debug\HSE.SQAT.CalculatorApp.Tests.pdb
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\HSE.SQAT.CalculatorApp.Tests.dll
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\HSE.SQAT.CalculatorApp.Tests.pdb
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\HSE.SQAT.CalculatorApp.exe
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\HSE.SQAT.CalculatorApp.pdb
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\HSE.SQAT.CalculatorApp.exe.config
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\obj\Debug\HSE.SQAT.CalculatorApp.Tests.csprojAssemblyReference.cache
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\obj\Debug\HSE.SQAT.CalculatorApp.Tests.csproj.CoreCompileInputs.cache
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\obj\Debug\HSE.SQAT.CalculatorApp.Tests.csproj.CopyComplete
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\obj\Debug\HSE.SQAT.CalculatorApp.Tests.dll
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp.Tests\obj\Debug\HSE.SQAT.CalculatorApp.Tests.pdb

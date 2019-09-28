@@ -1,0 +1,22 @@
+c:\users\localuser\documents\visual studio 2015\Projects\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\bin\Debug\HSE.SQAT.CalculatorApp.exe.config
+c:\users\localuser\documents\visual studio 2015\Projects\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\bin\Debug\HSE.SQAT.CalculatorApp.exe
+c:\users\localuser\documents\visual studio 2015\Projects\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\bin\Debug\HSE.SQAT.CalculatorApp.pdb
+c:\users\localuser\documents\visual studio 2015\Projects\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.csprojResolveAssemblyReference.cache
+c:\users\localuser\documents\visual studio 2015\Projects\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.exe
+c:\users\localuser\documents\visual studio 2015\Projects\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.pdb
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\bin\Debug\HSE.SQAT.CalculatorApp.exe.config
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\bin\Debug\HSE.SQAT.CalculatorApp.exe
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\bin\Debug\HSE.SQAT.CalculatorApp.pdb
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\bin\Debug\HSE.SQAT.CalculatorApp.exe.CodeAnalysisLog.xml
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\bin\Debug\HSE.SQAT.CalculatorApp.exe.lastcodeanalysissucceeded
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.csprojAssemblyReference.cache
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.exe
+C:\Users\lixic\Desktop\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.pdb
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\bin\Debug\HSE.SQAT.CalculatorApp.exe.config
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\bin\Debug\HSE.SQAT.CalculatorApp.exe
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\bin\Debug\HSE.SQAT.CalculatorApp.pdb
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.csprojAssemblyReference.cache
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.csproj.CoreCompileInputs.cache
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.exe
+H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.pdb
