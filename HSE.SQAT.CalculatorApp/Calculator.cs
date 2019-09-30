@@ -18,27 +18,45 @@ namespace HSE.SQAT.CalculatorApp
         }
         public void PressDisplay(double value)
         {
-            currentValue = value;
+            switch (operation)
+            {
+                case "+":
+                    currentValue += value;
+                    break;
+                case "-":
+                    currentValue -= value;
+                    break;
+                case "*":
+                    currentValue *= value;
+                    break;
+                case "/":
+                    currentValue /= value;
+                    break;
+                default:
+                    currentValue = value;
+                    break;
+            }
+            
         }
         public void PressPlus()
         {
-
+            operation = "+";
         }
         public void PressMinus()
         {
-
+            operation = "-";
         }
         public void PressMultiply()
         {
-
+            operation = "*";
         }
         public void PressDivide()
         {
-
+            operation = "/";
         }
         void Calculate()
         {
-
+            Display = currentValue;
         }
     }
 }

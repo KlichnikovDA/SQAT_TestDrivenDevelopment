@@ -42,7 +42,7 @@ namespace HSE.SQAT.CalculatorApp.Tests
         [DataTestMethod]
         [TestCategory("InputData")]
         [DataRow(0, 3)]
-        [DataRow(2.5, 1.5)]
+        [DataRow(2.5, 0.5)]
         [DataRow(5, -2)]
         [DataRow(-5, 8)]
         public void PressPlusTwoItem(double value1, double value2)
@@ -106,7 +106,6 @@ namespace HSE.SQAT.CalculatorApp.Tests
 
         [TestMethod]
         [TestCategory("InputData")]
-        [ExpectedException(typeof(DivideByZeroException))]
         public void PressDivideZeroTwoItem()
         {
             // Arrange.
@@ -119,13 +118,13 @@ namespace HSE.SQAT.CalculatorApp.Tests
             calculator.PressDisplay(value2);
             calculator.PressEnter();
             var actual = calculator.Display;
+            Assert.AreEqual(Double.IsInfinity(actual),true);
             // Assert.
-            Assert.Fail();
+            //Assert.Fail();
         }
 
         [TestMethod]
         [TestCategory("InputData")]
-        [ExpectedException(typeof(DivideByZeroException))]
         public void PressDivideZeroZero()
         {
             // Arrange.
@@ -138,8 +137,7 @@ namespace HSE.SQAT.CalculatorApp.Tests
             calculator.PressDisplay(value2);
             calculator.PressEnter();
             var actual = calculator.Display;
-            // Assert.
-            Assert.Fail();
+            Assert.AreEqual(Double.IsNaN(actual), true);
         }
 
         [DataTestMethod]
@@ -446,6 +444,7 @@ namespace HSE.SQAT.CalculatorApp.Tests
                 calculator.PressDisplay(item);
                 calculator.PressPlus();
             }
+            calculator.PressEnter();
             var actual = calculator.Display;
             // Assert.
             var expected = 55;
@@ -469,6 +468,7 @@ namespace HSE.SQAT.CalculatorApp.Tests
                 calculator.PressDisplay(item);
                 calculator.PressPlus();
             }
+            calculator.PressEnter();
             var actual = calculator.Display;
             // Assert.
             Assert.AreEqual(expected, actual);

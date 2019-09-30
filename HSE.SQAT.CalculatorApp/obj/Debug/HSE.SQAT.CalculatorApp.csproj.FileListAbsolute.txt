@@ -20,3 +20,10 @@ H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\obj\Debug\HSE
 H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.csproj.CoreCompileInputs.cache
 H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.exe
 H:\Вышка\КиТ\HSE.SQAT.CalculatorApp\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.pdb
+C:\Users\КадыроваЕленаТимуров\Desktop\SQAT_TestDrivenDevelopment\HSE.SQAT.CalculatorApp\bin\Debug\HSE.SQAT.CalculatorApp.exe.config
+C:\Users\КадыроваЕленаТимуров\Desktop\SQAT_TestDrivenDevelopment\HSE.SQAT.CalculatorApp\bin\Debug\HSE.SQAT.CalculatorApp.exe
+C:\Users\КадыроваЕленаТимуров\Desktop\SQAT_TestDrivenDevelopment\HSE.SQAT.CalculatorApp\bin\Debug\HSE.SQAT.CalculatorApp.pdb
+C:\Users\КадыроваЕленаТимуров\Desktop\SQAT_TestDrivenDevelopment\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.csprojAssemblyReference.cache
+C:\Users\КадыроваЕленаТимуров\Desktop\SQAT_TestDrivenDevelopment\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\КадыроваЕленаТимуров\Desktop\SQAT_TestDrivenDevelopment\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.exe
+C:\Users\КадыроваЕленаТимуров\Desktop\SQAT_TestDrivenDevelopment\HSE.SQAT.CalculatorApp\obj\Debug\HSE.SQAT.CalculatorApp.pdb
