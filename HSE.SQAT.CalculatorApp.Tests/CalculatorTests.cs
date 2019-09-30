@@ -4,6 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace HSE.SQAT.CalculatorApp.Tests
 {
     // На доработку тестов потрачено ~ 2 часа 40 минут
+    // Еще доработка ~ 10 минут
     [TestClass]
     public class CalculatorTests
     {
@@ -272,6 +273,61 @@ namespace HSE.SQAT.CalculatorApp.Tests
             var expected = 2;
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod]
+        [TestCategory("InputData")]
+        public void PressFewOperations()
+        {
+            // Arrange.
+            var value1 = 3;
+            var value2 = 2;
+            // Act.
+            var calculator = new Calculator();
+            calculator.PressDisplay(value1);
+            calculator.PressMinus();
+            calculator.PressPlus();
+            calculator.PressMultiply();
+            calculator.PressDisplay(value2);
+            calculator.PressEnter();
+            var actual = calculator.Display;
+            // Assert.
+            var expected = 6;
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        [TestCategory("InputData")]
+        public void PressOneItemPlus()
+        {
+            // Arrange.
+            var value1 = 4;
+            // Act.
+            var calculator = new Calculator();
+            calculator.PressDisplay(value1);
+            calculator.PressPlus();
+            calculator.PressEnter();
+            var actual = calculator.Display;
+            // Assert.
+            var expected = 4;
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        [TestCategory("InputData")]
+        public void PressPlusOneItem()
+        {
+            // Arrange.
+            var value1 = 4;
+            // Act.
+            var calculator = new Calculator();
+            calculator.PressPlus();
+            calculator.PressDisplay(value1);
+            calculator.PressEnter();
+            var actual = calculator.Display;
+            // Assert.
+            var expected = 4;
+            Assert.AreEqual(expected, actual);
+        }
         #endregion InputData
 
         #region OutputData
@@ -487,6 +543,13 @@ namespace HSE.SQAT.CalculatorApp.Tests
             var actual2 = calculator.Display * (-1);
             // Assert.
             Assert.AreEqual(actual1, actual2);
+        }
+
+        [TestMethod]
+        [TestCategory("OrderInputData")]
+        public void OrderFewOperations()
+        {
+            PressPlusOneItem();
         }
         #endregion OrderInputData
     }
